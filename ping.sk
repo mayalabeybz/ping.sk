@@ -1,0 +1,13 @@
+# Hey ! Thanks for downloading 
+# 
+# by MayaaLabeyBz
+
+command /ping [<player>]:
+	description: Ping command
+	usage: &cType /ping or /ping <player>
+	aliases: /lag, /latency
+	trigger:
+		if arg 1 is not set:
+			send "&3Your ping &f: &a%player's ping%"
+		if arg 1 is set:
+			send "&3Ping of %arg 1% &f: &a%arg 1's ping%"
