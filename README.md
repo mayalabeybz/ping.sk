@@ -1,18 +1,20 @@
-Hi guys,
-this is a simple /ping command ! ;)
+## Hi guys,
 
-> No permissions required
 
-> Simple
+> This is a simple /ping command in Skript for Minecraft ! ;)
 
-> Easy to configure
+> Features
+ - No permissions required
+ - Simple
+ - Easy to configure
+ - You can add more aliases
 
-> You can add more aliases
+> Commands
+- /ping
+- /lag
+- /latency
 
-Commands:
-/ping
-/lag
-/latency
+
 
 
 Thanks
